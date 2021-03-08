@@ -1,4 +1,4 @@
-package com.d3if4013.galerihewan
+package org.d3if4013.galerihewan
 
 import org.junit.Test
 
